@@ -1,0 +1,35 @@
+_repo: Suomalaisia-legendoja_72460
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Railo, Eino
+    alias: Iisalo, Osmo
+    birthdate: 1884
+    deathdate: 1948
+    gutenberg_agent_id: '46473'
+    url: http://www.gutenberg.org/2009/agents/46473
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Railo
+description: ''
+gutenberg_issued: '2023-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72460'
+language: fi
+pgterms:marc905: 20231219094510iisalo
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Finland'
+- !lcsh 'Tales -- Finland'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Suomalaiset legendat -- Nainen, jolla ei ollut varjoa -- Paholaisen
+  viikate -- Pitkän Pienan synti -- Rikas vouti ja paholainen -- Jeesus ja Pyhä Pietari
+  Suomessa.
+title: Suomalaisia legendoja
+url: http://www.gutenberg.org/ebooks/72460
